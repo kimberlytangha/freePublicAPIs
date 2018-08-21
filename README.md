@@ -2,8 +2,7 @@
 Fun APIs to use in future projects
 
 - https://funtranslations.com/api
-- https://registry.opendata.aws/
-- http://www.foaas.com/
+- https://medium.com/@yiweini/opencv-with-swift-step-by-step-c3cc1d1ee5f1
 
 Useful iOS libraries
 - https://github.com/viccalexander/Chameleon
