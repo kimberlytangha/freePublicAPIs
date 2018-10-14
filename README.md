@@ -1,4 +1,4 @@
-# APIs
+# freePublicAPIs
 
 General
 - https://github.com/toddmotto/public-apis
