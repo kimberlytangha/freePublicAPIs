@@ -1,5 +1,7 @@
 # freePublicAPIs
 
+Keeping track of usable APIs for future projects...
+
 General
 - https://github.com/toddmotto/public-apis
 - https://funtranslations.com/api
